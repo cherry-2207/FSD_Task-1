@@ -18,3 +18,6 @@ Develop a static website for a Campus Event Management System using HTML, CSS, a
     Enable GitHub Pages for the repository
     Host the website using the main branch.
     Copy the live website URL and add it to README.md.
+
+
+Live Website URL: https://cherry-2207.github.io/FSD_Task-1/
