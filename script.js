@@ -6,3 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log("Button Clicked");
   });
 });
+
+function printHello() {
+    console.log("Hello");
+}
